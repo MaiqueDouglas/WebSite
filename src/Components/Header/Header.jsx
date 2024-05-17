@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Header.css';
+import logo from "../../assets/logo.png";
 
 function Header() {
   const navigate = useNavigate();
@@ -9,7 +10,7 @@ function Header() {
     <div className='container-header'>
         <div className='header'>
             <div className='logo'>
-
+                <img src={logo} alt='logo'/>
             </div>
             <div className='icons'>
             <div class="whatsapp">
