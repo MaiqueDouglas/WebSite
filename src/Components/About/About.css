@@ -1,0 +1,66 @@
+.container-about{
+    position: relative;
+    top: 20px;
+    width: 1500px;
+    height: 680px;
+    margin: 0 auto;
+    
+}
+
+.about h1{
+    font-size: 60px;
+    text-align: center;
+    
+    
+}
+
+.about h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-left: 600px;
+    text-align: left;
+}
+
+.about h4 {
+    font-size: 30px;
+    margin-top: -45px;
+    margin-left: 600px;
+    text-align: left;
+}
+
+.about p{
+    font-size: 20px;
+    margin-left: 600px;
+    text-align: left;
+}
+
+.photo-about img{
+    position: absolute;
+    top: 0;
+    left: 50px;
+    width: 600px;
+}
+
+.icon1 {
+    position: absolute;
+    top: 620px;
+    left: 1270px;
+    
+}
+
+.icon2 {
+    position: absolute;
+    top: 620px;
+    left: 1320px;
+    
+}
+
+.icon3 {
+    position: absolute;
+    top: 620px;
+    left: 1373px;
+    
+}
+
+
+  
