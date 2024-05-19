@@ -1,21 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
 .container-about{
+    background-color:#d1d1d3;
+}
+
+.about{
     position: relative;
     top: 20px;
     width: 1500px;
-    height: 680px;
+    height: 700px;
     margin: 0 auto;
-    
-}
-
-.about h1{
-    font-size: 60px;
-    text-align: center;
-    
     
 }
 
 .about h2 {
     font-size: 50px;
+    font-family: "Questrial", sans-serif;
     margin-top: 0;
     margin-left: 600px;
     text-align: left;
@@ -23,6 +23,7 @@
 
 .about h4 {
     font-size: 30px;
+    font-family: "Questrial", sans-serif;
     margin-top: -45px;
     margin-left: 600px;
     text-align: left;
@@ -30,6 +31,7 @@
 
 .about p{
     font-size: 20px;
+    font-family: "Questrial", sans-serif;
     margin-left: 600px;
     text-align: left;
 }
