@@ -10,10 +10,10 @@ function Banner(){
             <div className='banner'> 
                 <div className='text'>
                     <h1>Uma Psicóloga de Família</h1>
-                    <p>
+                    <h1 className='paragrafo'>
                         Tenha ajuda psicológica baseada em evidências<br/>
                         para as suas dificuldades e transtornos emocionais.
-                    </p>
+                    </h1>
                     <button>Agende sua consulta</button>                
                 </div>         
             </div>

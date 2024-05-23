@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 .container-header{
   position: fixed;
@@ -27,7 +27,6 @@
   .router-links a {
     margin-top: 40px;
     font-size: 25px; 
-    font-family: "Questrial", sans-serif;
     color: #cbcbcc; 
     text-decoration: none; 
     margin-right: 40px; 

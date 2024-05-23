@@ -15,7 +15,7 @@ function About(){
                
             </div>
                 
-                <h2>
+                <h2 className='h2'>
                 Olá, me chamo Hellen Gama<br/>
                 </h2>
                 <h4>

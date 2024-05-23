@@ -7,58 +7,62 @@
 .about{
     position: relative;
     width: 1500px;
-    height: 700px;
+    height: 720px;
     margin: 0 auto;
     
 }
 
-.about h2 {
+.h2 {
+    position: absolute;
     font-size: 50px;
     font-family: "Questrial", sans-serif;
-    margin-top: 0;
+    margin-top: 60px;
     margin-left: 600px;
     text-align: left;
 }
 
 .about h4 {
+    position: absolute;
     font-size: 30px;
     font-family: "Questrial", sans-serif;
-    margin-top: -45px;
+    margin-top: 105px;
     margin-left: 600px;
     text-align: left;
 }
 
 .about p{
+    position: absolute;
     font-size: 20px;
     font-family: "Questrial", sans-serif;
+    margin-top: 180px;
     margin-left: 600px;
     text-align: left;
 }
 
 .photo-about img{
     position: absolute;
-    top: 0;
+    top: 60px;
     left: 50px;
     width: 600px;
 }
 
 .icon1 {
     position: absolute;
-    top: 620px;
+    top: 660px;
     left: 1270px;
     
 }
 
 .icon2 {
     position: absolute;
-    top: 620px;
+    top: 660px;
     left: 1320px;
     
 }
 
 .icon3 {
     position: absolute;
-    top: 620px;
+    top: 660px;
     left: 1373px;
     
 }
