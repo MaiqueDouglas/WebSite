@@ -3,6 +3,7 @@
 .container-header{
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   height: 110px;
   background-color: #044C9C ;
@@ -27,7 +28,7 @@
   .router-links a {
     margin-top: 40px;
     font-size: 25px; 
-    color: #cbcbcc; 
+    color: #ccc; 
     text-decoration: none; 
     margin-right: 40px; 
   }
