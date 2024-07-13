@@ -1,6 +1,9 @@
 function Footer(){
     return(
-        <div>Footer</div>
+        <div>Footer
+            <h1>Redes sociais</h1>
+        </div>
+       
     );
 }
 
